@@ -43,12 +43,14 @@ This structured approach allowed me to move from a general understanding of the 
 
 ## **Insights**
 1. **Q1: What is the overall extent of employee attrition?**
-The company has a significant attrition problem, with a rate of 16.1%. This means that over the period analyzed, 237 employees left the organization and were not replaced. This level of turnover represents a substantial cost in recruitment, knowledge lost, and operational disruption, establishing a clear need for a strategic intervention.
+
+   The company has a significant attrition problem, with a rate of 16.1%. This means that over the period analyzed, 237 employees left the organization and were not replaced. This level of turnover represents a substantial cost in recruitment, knowledge lost, and operational disruption, establishing a clear need for a strategic intervention.
 
 <img width="2082" height="1172" alt="Q1-Overall Attrition" src="https://github.com/user-attachments/assets/1144f225-4a06-48ec-8c88-4b3ca7f8a3e8" />
 
 2. **Q2: What kinds of jobs and departments have a high attrition rate?**
-The problem is not evenly distributed. The Sales department is the most critical hotspot with an alarming 20.6% attrition rate. Drilling down, the Sales Representative role is in crisis, with 4 out of every 10 employees (39.8%) leaving. From a volume perspective, the larger Research & Development department contributes the most to the problem (56% of all leavers), with Laboratory Technicians being the single largest group of leavers. This indicates a targeted issue in Sales and a widespread, high-impact issue in R&D.
+
+   The problem is not evenly distributed. The Sales department is the most critical hotspot with an alarming 20.6% attrition rate. Drilling down, the Sales Representative role is in crisis, with 4 out of every 10 employees (39.8%) leaving. From a volume perspective, the larger Research & Development department contributes the most to the problem (56% of all leavers), with Laboratory Technicians being the single largest group of leavers. This indicates a targeted issue in Sales and a widespread, high-impact issue in R&D.
 
 <img width="2082" height="1172" alt="Q2A-DeptAttr" src="https://github.com/user-attachments/assets/d24fca48-22c1-4832-912a-c8bb95f501ae" />
 
@@ -59,14 +61,16 @@ The problem is not evenly distributed. The Sales department is the most critical
 <img width="2082" height="1172" alt="Q2B-JobLeavers" src="https://github.com/user-attachments/assets/f6103de5-b65b-412e-a5b8-61b88feebc60" />
 
 3. **Q3: What is the biggest factor that influences employee attrition?**
-The analysis examined both external, tangible factors and internal, psychological factors. While internal factors like low satisfaction show a clear correlation, the most powerful drivers are external. A culture of overwork is the dominant issue, with employees who work Overtime leaving at a 30.5% rate and those reporting a "Bad" work-life balance leaving at 31.2%. This combination, alongside the 29.3% attrition rate for Below Average earners, shows that tangible job conditions and compensation are the most critical levers for reducing turnover.
+
+   The analysis examined both external, tangible factors and internal, psychological factors. While internal factors like low satisfaction show a clear correlation, the most powerful drivers are external. A culture of overwork is the dominant issue, with employees who work Overtime leaving at a 30.5% rate and those reporting a "Bad" work-life balance leaving at 31.2%. This combination, alongside the 29.3% attrition rate for Below Average earners, shows that tangible job conditions and compensation are the most critical levers for reducing turnover.
 
 <img width="2082" height="1173" alt="Q3-ExtFactors" src="https://github.com/user-attachments/assets/7cac8db8-3124-4bbb-99a7-9cce1cc613d8" />
 
 <img width="2082" height="1172" alt="Q3-IntFactors" src="https://github.com/user-attachments/assets/16d2dcba-f11c-4ebf-9686-c9a880f958d6" />
 
 4. **Q4: How does compensation disparity influence attrition across an employee's career lifecycle?**
-Compensation's role in attrition changes dramatically over an employee's tenure. A massive pay gap of nearly $1,850 exists for early-tenure employees (0-2 years), making low starting salaries a primary reason new talent leaves. However, this trend reverses for long-serving employees (11+ years), where those who leave were actually paid more. This suggests the company successfully retains early-career employees with competitive growth but fails to hold onto its most experienced and likely high-performing veterans.
+
+   Compensation's role in attrition changes dramatically over an employee's tenure. A massive pay gap of nearly $1,850 exists for early-tenure employees (0-2 years), making low starting salaries a primary reason new talent leaves. However, this trend reverses for long-serving employees (11+ years), where those who leave were actually paid more. This suggests the company successfully retains early-career employees with competitive growth but fails to hold onto its most experienced and likely high-performing veterans.
 
 <img width="2082" height="1173" alt="Q4-Income" src="https://github.com/user-attachments/assets/a9bab9a5-e1cb-4201-9c4c-357e95b452eb" />
 
